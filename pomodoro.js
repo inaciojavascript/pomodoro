@@ -1,3 +1,4 @@
+/*variáveis globais*/
 var nome="Usuário";
 var temposessao=25;
 var intercurto=10;
